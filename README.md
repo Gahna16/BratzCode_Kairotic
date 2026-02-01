@@ -17,14 +17,12 @@ Demographic Security: Implements age-limit filters to ensure groups are formed w
 Low-Stakes Socializing: Lowers the barrier to entry for social interaction by focusing on short-term "quests" rather than long-term commitments.
 
 How to Run
+
 1. Prerequisites
-Ensure you have the following installed on your local machine:
-
-Node.js (v18.0 or higher)
-
-npm (comes bundled with Node.js)
-
-A web browser (Chrome or Edge recommended for testing)
+a. Ensure you have the following installed on your local machine:
+b. Node.js (v18.0 or higher)
+c. npm (comes bundled with Node.js)
+d. A web browser (Chrome or Edge recommended for testing)
 
 2. Installation
 Clone the repository:
@@ -36,6 +34,8 @@ Install dependencies:
 
 Bash
 npm install
+
+
 3. Firebase Configuration
 This project requires a Firebase backend to handle worker registrations and QR data.
 
